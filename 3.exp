@@ -1,0 +1,25 @@
+#include "Universit_Database.h"
+
+// Constructors/Destructors
+//  
+
+Universit_Database::Universit_Database () {
+initAttributes();
+}
+
+Universit_Database::~Universit_Database () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
+
+void Universit_Database::initAttributes () {
+}
